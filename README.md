@@ -1,4 +1,4 @@
-# 🤖 Chatbot QA Inteligente con Contexto y Gradio
+3# 🤖 Chatbot QA Inteligente con Contexto y Gradio
 
 ¡Bienvenido a mi proyecto de **Chatbot QA Inteligente**! 🎯  
 Este sistema combina lo último en modelos de lenguaje, recuperación de información y una interfaz amigable con **manejo de contexto**.
@@ -68,12 +68,16 @@ Python 3.8+
 
 Acceso a Internet
 
-✨ Características destacadas
+##✨ Características destacadas
 
 ✅ Mantenimiento de contexto entre preguntas
+
 ✅ Fácil de usar y desplegar
+
 ✅ Respuestas naturales y comprensibles
+
 ✅ Basado en modelos SOTA (State of the Art)
+
 ✅ Código limpio y extensible
 
 ## 📌 Próximas mejoras
