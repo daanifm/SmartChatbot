@@ -63,8 +63,11 @@ python app.py
 
 ## 🔐 Requisitos previos
 Tener una API Key válida de OpenRouter
+
 Python 3.8+
+
 Acceso a Internet
+
 ✨ Características destacadas
 
 ✅ Mantenimiento de contexto entre preguntas
