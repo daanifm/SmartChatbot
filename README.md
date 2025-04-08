@@ -39,11 +39,11 @@ Permite:
 
 ##  🧰 Stack Tecnológico
 
--Gradio	Interfaz de usuario para el chatbot
--OpenRouter	Puerta de acceso a modelos de lenguaje avanzados
--Gemini 2.5 Pro	Modelo LLM para generación de respuestas
--Python 🐍	Lenguaje principal de desarrollo
--LangChain	Para orquestación y manejo de contexto si aplica
+- Gradio	Interfaz de usuario para el chatbot
+- OpenRouter	Puerta de acceso a modelos de lenguaje avanzados
+- Gemini 2.5 Pro	Modelo LLM para generación de respuestas
+- Python 🐍	Lenguaje principal de desarrollo
+- LangChain	Para orquestación y manejo de contexto si aplica
 
 ## 🧪 Ejemplo de uso
 
