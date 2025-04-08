@@ -51,11 +51,16 @@ LangChain	Para orquestación y manejo de contexto si aplica
 🤖 Chatbot: El objetivo es ofrecer un sistema conversacional inteligente que maneje el contexto y brinde respuestas precisas basadas en modelos de lenguaje avanzados, accesible a través de una interfaz amigable.
 
 ## 📦 Instalación
-git clone https://github.com/tu-usuario/chatbot-qa-contextual.git
+git clone [https://github.com/tu-usuario/chatbot-qa-contextual.git](https://github.com/daanifm/SmartChatbot.git)
+
 cd chatbot-qa-contextual
+
 python3 -m venv venv
+
 venv\Scripts\activate
+
 pip install -r requirements.txt
+
 python app.py
 
 ## 🔐 Requisitos previos
