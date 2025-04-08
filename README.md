@@ -39,11 +39,11 @@ Permite:
 
 ##  🧰 Stack Tecnológico
 
-Gradio	Interfaz de usuario para el chatbot
-OpenRouter	Puerta de acceso a modelos de lenguaje avanzados
-Gemini 2.5 Pro	Modelo LLM para generación de respuestas
-Python 🐍	Lenguaje principal de desarrollo
-LangChain	Para orquestación y manejo de contexto si aplica
+-Gradio	Interfaz de usuario para el chatbot
+-OpenRouter	Puerta de acceso a modelos de lenguaje avanzados
+-Gemini 2.5 Pro	Modelo LLM para generación de respuestas
+-Python 🐍	Lenguaje principal de desarrollo
+-LangChain	Para orquestación y manejo de contexto si aplica
 
 ## 🧪 Ejemplo de uso
 
@@ -51,34 +51,24 @@ LangChain	Para orquestación y manejo de contexto si aplica
 🤖 Chatbot: El objetivo es ofrecer un sistema conversacional inteligente que maneje el contexto y brinde respuestas precisas basadas en modelos de lenguaje avanzados, accesible a través de una interfaz amigable.
 
 ## 📦 Instalación
-git clone https://github.com/daanifm/SmartChatbot.git
-
-python3 -m venv venv
-
-venv\Scripts\activate
-
-pip install -r requirements.txt
-
-python app.py
+-git clone https://github.com/daanifm/SmartChatbot.git
+-python3 -m venv venv
+-venv\Scripts\activate
+-pip install -r requirements.txt
+-python app.py
 
 ## 🔐 Requisitos previos
-Tener una API Key válida de OpenRouter
+-Tener una API Key válida de OpenRouter
+-Python 3.8+
+-Acceso a Internet
 
-Python 3.8+
+## ✨ Características destacadas
 
-Acceso a Internet
-
-##✨ Características destacadas
-
-✅ Mantenimiento de contexto entre preguntas
-
-✅ Fácil de usar y desplegar
-
+-✅ Mantenimiento de contexto entre preguntas
+-✅ Fácil de usar y desplegar
 ✅ Respuestas naturales y comprensibles
-
-✅ Basado en modelos SOTA (State of the Art)
-
-✅ Código limpio y extensible
+-✅ Basado en modelos SOTA (State of the Art)
+-✅ Código limpio y extensible
 
 ## 📌 Próximas mejoras
 
