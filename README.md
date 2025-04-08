@@ -51,30 +51,30 @@ Permite:
 🤖 Chatbot: El objetivo es ofrecer un sistema conversacional inteligente que maneje el contexto y brinde respuestas precisas basadas en modelos de lenguaje avanzados, accesible a través de una interfaz amigable.
 
 ## 📦 Instalación
--git clone https://github.com/daanifm/SmartChatbot.git
--python3 -m venv venv
--venv\Scripts\activate
--pip install -r requirements.txt
--python app.py
+- git clone https://github.com/daanifm/SmartChatbot.git
+- python3 -m venv venv
+- venv\Scripts\activate
+- pip install -r requirements.txt
+- python app.py
 
 ## 🔐 Requisitos previos
--Tener una API Key válida de OpenRouter
--Python 3.8+
--Acceso a Internet
+- Tener una API Key válida de OpenRouter
+- Python 3.8+
+- Acceso a Internet
 
 ## ✨ Características destacadas
 
--✅ Mantenimiento de contexto entre preguntas
--✅ Fácil de usar y desplegar
-✅ Respuestas naturales y comprensibles
--✅ Basado en modelos SOTA (State of the Art)
--✅ Código limpio y extensible
+- ✅ Mantenimiento de contexto entre preguntas
+- ✅ Fácil de usar y desplegar
+- ✅ Respuestas naturales y comprensibles
+- ✅ Basado en modelos SOTA (State of the Art)
+- ✅ Código limpio y extensible
 
 ## 📌 Próximas mejoras
 
- Soporte para múltiples modelos de OpenRouter
- Integración con bases de datos de conocimiento personalizado
- Despliegue en HuggingFace Spaces o servidor propio
+- Soporte para múltiples modelos de OpenRouter
+- Integración con bases de datos de conocimiento personalizado
+- Despliegue en HuggingFace Spaces o servidor propio
 
 ## 📫 Contacto
 
